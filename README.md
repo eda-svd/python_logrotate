@@ -7,7 +7,7 @@ python_logrotate is a script for rotating logs with basic set of functions.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
