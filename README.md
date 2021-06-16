@@ -1,4 +1,4 @@
-# Foobar
+# python_logrotate
 
 python_logrotate is a script for rotating logs with basic set of functions.
 
