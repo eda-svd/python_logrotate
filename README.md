@@ -4,7 +4,7 @@ python_logrotate is a script for rotating logs with basic set of functions.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirements:
 
 ```bash
 pip install -r requirements.txt
